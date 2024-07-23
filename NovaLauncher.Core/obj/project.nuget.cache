@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "j1Goezvst7M=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viper\\Desktop\\NovaLauncher.Core\\NovaLauncher.Web.exe.01718000_ca00.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viper\\.nuget\\packages\\restsharp\\111.4.0\\restsharp.111.4.0.nupkg.sha512",
+    "C:\\Users\\viper\\.nuget\\packages\\serilog\\4.0.0\\serilog.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

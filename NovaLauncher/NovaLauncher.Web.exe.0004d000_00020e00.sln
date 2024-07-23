@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NovaLauncher.Web.exe.0004d000_00020e00", "NovaLauncher.Web.exe.0004d000_00020e00.csproj", "{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}.Debug|x64.ActiveCfg = Debug|x64
+		{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}.Debug|x64.Build.0 = Debug|x64
+		{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}.Release|x64.ActiveCfg = Release|x64
+		{421BFADA-B64C-43F4-B3D2-0B2CDA4FB48E}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5DAA14B2-55AA-4E59-859D-4507A6082F27}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,2 @@
+C:\Users\viper\Desktop\NovaLauncher.EasyInstaller\obj\Debug\netcoreapp8.0\NovaLauncher.Web.exe.01725000_5200.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viper\Desktop\NovaLauncher.EasyInstaller\obj\Debug\netcoreapp8.0\NovaLauncher.Web.exe.01725000_5200.csproj.CoreCompileInputs.cache

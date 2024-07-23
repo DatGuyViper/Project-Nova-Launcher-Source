@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|c:\\users\\viper\\desktop\\novalauncher.easyinstaller\\novalauncher.easyinstaller\\installer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|solutionrelative:novalauncher.easyinstaller\\installer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|c:\\users\\viper\\desktop\\novalauncher.easyinstaller\\novalauncher.easyinstaller\\downloadprogresseventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|solutionrelative:novalauncher.easyinstaller\\downloadprogresseventargs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|c:\\users\\viper\\desktop\\novalauncher.easyinstaller\\novalauncher.easyinstaller\\manifestfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|solutionrelative:novalauncher.easyinstaller\\manifestfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|c:\\users\\viper\\desktop\\novalauncher.easyinstaller\\novalauncher.easyinstaller\\manifestfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|solutionrelative:novalauncher.easyinstaller\\manifestfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|c:\\users\\viper\\desktop\\novalauncher.easyinstaller\\novalauncher.easyinstaller.types\\manifestfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|solutionrelative:novalauncher.easyinstaller.types\\manifestfileinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|c:\\users\\viper\\desktop\\novalauncher.easyinstaller\\novalauncher.easyinstaller.types\\manifestfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|solutionrelative:novalauncher.easyinstaller.types\\manifestfile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|c:\\users\\viper\\desktop\\novalauncher.easyinstaller\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2667F4F-AF3F-4C36-A1DE-8C6A5C3140AF}|NovaLauncher.Web.exe.01725000_5200.csproj|solutionrelative:properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DownloadProgressEventArgs.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller\\DownloadProgressEventArgs.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.EasyInstaller\\DownloadProgressEventArgs.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller\\DownloadProgressEventArgs.cs",
+              "RelativeToolTip": "NovaLauncher.EasyInstaller\\DownloadProgressEventArgs.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:14:18.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ManifestFile.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller\\ManifestFile.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.EasyInstaller\\ManifestFile.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller\\ManifestFile.cs",
+              "RelativeToolTip": "NovaLauncher.EasyInstaller\\ManifestFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:14:16.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManifestFileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller\\ManifestFileInfo.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.EasyInstaller\\ManifestFileInfo.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller\\ManifestFileInfo.cs",
+              "RelativeToolTip": "NovaLauncher.EasyInstaller\\ManifestFileInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:14:15.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManifestFileInfo.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller.Types\\ManifestFileInfo.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.EasyInstaller.Types\\ManifestFileInfo.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller.Types\\ManifestFileInfo.cs",
+              "RelativeToolTip": "NovaLauncher.EasyInstaller.Types\\ManifestFileInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:14:15.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Installer.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller\\Installer.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.EasyInstaller\\Installer.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller\\Installer.cs",
+              "RelativeToolTip": "NovaLauncher.EasyInstaller\\Installer.cs",
+              "ViewState": "AQIAAMMAAAAAAAAAAAAcwM8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:13:53.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ManifestFile.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller.Types\\ManifestFile.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.EasyInstaller.Types\\ManifestFile.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\NovaLauncher.EasyInstaller.Types\\ManifestFile.cs",
+              "RelativeToolTip": "NovaLauncher.EasyInstaller.Types\\ManifestFile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:14:14.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.EasyInstaller\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Properties\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:13:38.63Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

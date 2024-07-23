@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NovaLauncher.Web.exe.01718000_ca00", "NovaLauncher.Web.exe.01718000_ca00.csproj", "{869041E8-DF98-49B3-A504-8C10DA6D9797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{869041E8-DF98-49B3-A504-8C10DA6D9797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{869041E8-DF98-49B3-A504-8C10DA6D9797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{869041E8-DF98-49B3-A504-8C10DA6D9797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{869041E8-DF98-49B3-A504-8C10DA6D9797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7083AAE-7949-4BDC-B607-42B7F37B3573}
+	EndGlobalSection
+EndGlobal

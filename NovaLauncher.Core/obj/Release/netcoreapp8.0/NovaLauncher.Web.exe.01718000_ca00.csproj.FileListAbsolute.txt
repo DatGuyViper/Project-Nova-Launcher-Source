@@ -1,0 +1,14 @@
+C:\Users\viper\Desktop\NovaLauncher.Core\obj\Release\netcoreapp8.0\NovaLauncher.Web.exe.01718000_ca00.csproj.AssemblyReference.cache
+C:\Users\viper\Desktop\NovaLauncher.Core\obj\Release\netcoreapp8.0\NovaLauncher.Web.exe.01718000_ca00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viper\Desktop\NovaLauncher.Core\obj\Release\netcoreapp8.0\NovaLauncher.Web.exe.01718000_ca00.csproj.CoreCompileInputs.cache
+C:\Users\viper\Desktop\NovaLauncher.Core\bin\Release\netcoreapp8.0\NovaLauncher.Core.deps.json
+C:\Users\viper\Desktop\NovaLauncher.Core\bin\Release\netcoreapp8.0\NovaLauncher.Core.dll
+C:\Users\viper\Desktop\NovaLauncher.Core\bin\Release\netcoreapp8.0\NovaLauncher.Core.pdb
+C:\Users\viper\Desktop\NovaLauncher.Core\bin\Release\netcoreapp8.0\NovaLauncher.EasyInstaller.dll
+C:\Users\viper\Desktop\NovaLauncher.Core\bin\Release\netcoreapp8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\viper\Desktop\NovaLauncher.Core\bin\Release\netcoreapp8.0\NovaLauncher.EasyInstaller.pdb
+C:\Users\viper\Desktop\NovaLauncher.Core\obj\Release\netcoreapp8.0\NovaLaun.47B2051D.Up2Date
+C:\Users\viper\Desktop\NovaLauncher.Core\obj\Release\netcoreapp8.0\NovaLauncher.Core.dll
+C:\Users\viper\Desktop\NovaLauncher.Core\obj\Release\netcoreapp8.0\refint\NovaLauncher.Core.dll
+C:\Users\viper\Desktop\NovaLauncher.Core\obj\Release\netcoreapp8.0\NovaLauncher.Core.pdb
+C:\Users\viper\Desktop\NovaLauncher.Core\obj\Release\netcoreapp8.0\ref\NovaLauncher.Core.dll

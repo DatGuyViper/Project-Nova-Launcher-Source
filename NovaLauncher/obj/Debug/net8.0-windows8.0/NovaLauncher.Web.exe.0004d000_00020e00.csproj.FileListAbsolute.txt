@@ -1,0 +1,4 @@
+C:\Users\viper\Desktop\Launcherr\obj\Debug\net8.0-windows8.0\NovaLauncher.Web.exe.0004d000_00020e00.csproj.AssemblyReference.cache
+C:\Users\viper\Desktop\Launcherr\obj\Debug\net8.0-windows8.0\NovaLauncher.Web.exe.0004d000_00020e00.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viper\Desktop\Launcherr\obj\Debug\net8.0-windows8.0\Sentry.Attributes.cs
+C:\Users\viper\Desktop\Launcherr\obj\Debug\net8.0-windows8.0\NovaLauncher.Web.exe.0004d000_00020e00.csproj.CoreCompileInputs.cache

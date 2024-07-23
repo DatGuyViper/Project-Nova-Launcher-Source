@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\viper\\Desktop\\NovaLauncher.Core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{869041E8-DF98-49B3-A504-8C10DA6D9797}|NovaLauncher.Web.exe.01718000_ca00.csproj|c:\\users\\viper\\desktop\\novalauncher.core\\novalauncher.core.epic.types.error\\baseepicerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869041E8-DF98-49B3-A504-8C10DA6D9797}|NovaLauncher.Web.exe.01718000_ca00.csproj|solutionrelative:novalauncher.core.epic.types.error\\baseepicerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869041E8-DF98-49B3-A504-8C10DA6D9797}|NovaLauncher.Web.exe.01718000_ca00.csproj|c:\\users\\viper\\desktop\\novalauncher.core\\novalauncher.core.epic.types.error\\epicerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869041E8-DF98-49B3-A504-8C10DA6D9797}|NovaLauncher.Web.exe.01718000_ca00.csproj|solutionrelative:novalauncher.core.epic.types.error\\epicerror.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{869041E8-DF98-49B3-A504-8C10DA6D9797}|NovaLauncher.Web.exe.01718000_ca00.csproj|c:\\users\\viper\\desktop\\novalauncher.core\\novalauncher.core.nova\\installationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{869041E8-DF98-49B3-A504-8C10DA6D9797}|NovaLauncher.Web.exe.01718000_ca00.csproj|solutionrelative:novalauncher.core.nova\\installationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EpicError.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.Core\\NovaLauncher.Core.Epic.Types.Error\\EpicError.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.Core.Epic.Types.Error\\EpicError.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.Core\\NovaLauncher.Core.Epic.Types.Error\\EpicError.cs",
+              "RelativeToolTip": "NovaLauncher.Core.Epic.Types.Error\\EpicError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:19:57.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BaseEpicError.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.Core\\NovaLauncher.Core.Epic.Types.Error\\BaseEpicError.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.Core.Epic.Types.Error\\BaseEpicError.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.Core\\NovaLauncher.Core.Epic.Types.Error\\BaseEpicError.cs",
+              "RelativeToolTip": "NovaLauncher.Core.Epic.Types.Error\\BaseEpicError.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:18:53.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InstallationManager.cs",
+              "DocumentMoniker": "C:\\Users\\viper\\Desktop\\NovaLauncher.Core\\NovaLauncher.Core.Nova\\InstallationManager.cs",
+              "RelativeDocumentMoniker": "NovaLauncher.Core.Nova\\InstallationManager.cs",
+              "ToolTip": "C:\\Users\\viper\\Desktop\\NovaLauncher.Core\\NovaLauncher.Core.Nova\\InstallationManager.cs",
+              "RelativeToolTip": "NovaLauncher.Core.Nova\\InstallationManager.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAcwHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T12:17:31.833Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

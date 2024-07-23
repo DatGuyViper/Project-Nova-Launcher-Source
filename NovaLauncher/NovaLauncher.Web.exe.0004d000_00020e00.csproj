@@ -1,0 +1,61 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>NovaLauncher.Web</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWPF>True</UseWPF>
+    <TargetFramework>net8.0-windows10.0.22621.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+    <Platforms>AnyCPU;x64</Platforms>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="novalogo.png" />
+    <EmbeddedResource Include="novalogo.png" LogicalName="novalogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Azure.Core" Version="1.10.0" />
+    <PackageReference Include="Costura.Fody" Version="5.7.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Fody" Version="6.5.5">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.AspNetCore.Components.WebView.Wpf" Version="8.0.70" />
+    <PackageReference Include="Microsoft.Toolkit.Uwp.Notifications" Version="7.1.3" />
+    <PackageReference Include="Microsoft.Web.WebView2" Version="1.0.2592.51" />
+    <PackageReference Include="RestSharp" Version="111.4.0" />
+    <PackageReference Include="Sentry.Azure.Functions.Worker" Version="4.9.0" />
+    <PackageReference Include="Serilog.Sinks.File" Version="6.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+      <HintPath>..\..\..\..\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.Core" />
+    <Reference Include="Microsoft.Extensions.DependencyInjection">
+      <HintPath>..\..\..\..\Program Files\dotnet\shared\Microsoft.AspNetCore.App\8.0.7\Microsoft.Extensions.DependencyInjection.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Web.WebView2.Wpf" />
+    <Reference Include="Sentry" />
+    <Reference Include="Microsoft.Toolkit.Uwp.Notifications" />
+    <Reference Include="RestSharp" />
+    <Reference Include="NovaLauncher.Core">
+      <HintPath>..\..\Documents\NOVA DUMP\NovaLauncher.Web.exe.01718000_ca00.dll</HintPath>
+    </Reference>
+    <Reference Include="NovaLauncher.EasyInstaller">
+      <HintPath>..\..\Documents\NOVA DUMP\NovaLauncher.Web.exe.01725000_5200.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog" />
+    <Reference Include="Serilog.Sinks.File" />
+  </ItemGroup>
+</Project>

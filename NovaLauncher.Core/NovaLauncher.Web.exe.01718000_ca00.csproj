@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <AssemblyName>NovaLauncher.Core</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <TargetFramework>netcoreapp8.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>11.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup />
+  <ItemGroup>
+    <PackageReference Include="RestSharp" Version="111.4.0" />
+    <PackageReference Include="Serilog" Version="4.0.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="NovaLauncher.EasyInstaller">
+      <HintPath>..\NovaLauncher.EasyInstaller\bin\Release\netcoreapp8.0\NovaLauncher.EasyInstaller.dll</HintPath>
+    </Reference>
+    <Reference Include="RestSharp" />
+    <Reference Include="System.Security.Cryptography.ProtectedData">
+      <HintPath>..\..\..\..\Program Files\dotnet\shared\Microsoft.WindowsDesktop.App\8.0.7\System.Security.Cryptography.ProtectedData.dll</HintPath>
+    </Reference>
+    <Reference Include="Serilog" />
+  </ItemGroup>
+</Project>
